@@ -4,19 +4,16 @@
 
 Contests: 1
 
-Global Rank ?? of ??
+Global Rank 513 of 1046
 
-Country Rank ?? of ??
+Country Rank 64 of 135
 
 ## SRM 825 Div 2 (Rated)
-Contest: https://arena.topcoder.com/#/u/contests/19070
-
-Leaderboard: https://arena.topcoder.com/#/u/contests/19070/2/summary/room
+[Contest Info](https://competitiveprogramming.info/topcoder/srm/round/19070/div/2)
 
 Final Score: 70.36
 
 Final Rank: 40 of 126
 
-Solutions will be released after the contest is over.
-- Div 2 250pt [code](SRM%20845/Div2-250.cpp)
+- Div 2, level one: [Problem](https://community.topcoder.com/stat?c=problem_statement&pm=17427&rd=19070) | [My Solution](SRM%20845/FindBob.cpp)
 
