@@ -17,7 +17,7 @@ class GlobalWarmingCheck {
         ll lo = sumY;
         int loIdx = 0;
         for (int start=1; start <= N-Y; start++) {
-			      sumY -= T[start-1];
+            sumY -= T[start-1];
             sumY += T[start + Y - 1];
             if (sumY >= hi) {
             	hi = sumY;
