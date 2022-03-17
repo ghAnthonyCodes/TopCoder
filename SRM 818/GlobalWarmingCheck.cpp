@@ -20,11 +20,11 @@ class GlobalWarmingCheck {
             sumY -= T[start-1];
             sumY += T[start + Y - 1];
             if (sumY >= hi) {
-            	  hi = sumY;
+                hi = sumY;
                 hiIdx = start;
             }
             if (sumY < lo) {
-            	  lo = sumY;
+                lo = sumY;
                 loIdx = start;
             }
         }
