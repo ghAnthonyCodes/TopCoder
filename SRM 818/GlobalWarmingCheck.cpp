@@ -11,7 +11,7 @@ class GlobalWarmingCheck {
             T[i] = (i*i + 4*i + 7) % M;
         ll sumY = 0;
         for (int i=0; i<Y; i++)
-        	sumY += T[i];
+            sumY += T[i];
         ll hi = sumY;
         int hiIdx = 0;
         ll lo = sumY;
@@ -20,11 +20,11 @@ class GlobalWarmingCheck {
             sumY -= T[start-1];
             sumY += T[start + Y - 1];
             if (sumY >= hi) {
-            	hi = sumY;
+            	  hi = sumY;
                 hiIdx = start;
             }
             if (sumY < lo) {
-            	lo = sumY;
+            	  lo = sumY;
                 loIdx = start;
             }
         }
