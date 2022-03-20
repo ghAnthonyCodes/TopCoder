@@ -15,5 +15,5 @@ Final Score: 70.36
 
 Final Rank: 40 of 126
 
-- Div 2, level one: [Problem](https://community.topcoder.com/stat?c=problem_statement&pm=17427&rd=19070) | [My Solution](SRM%20845/FindBob.cpp)
+- Div 2, level one: [Problem](https://community.topcoder.com/stat?c=problem_statement&pm=17427&rd=19070) | [My Solution](SRM%20825/FindBob.cpp)
 
