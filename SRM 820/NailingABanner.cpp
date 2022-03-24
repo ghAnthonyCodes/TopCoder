@@ -43,7 +43,7 @@ class NailingABanner {
         
         // Build T
         for (int round = 1; round <= 60; round++)
-        	T[round] = T[round - 1] + (ll)pow(2, round - 1);
+            T[round] = T[round - 1] + (ll)pow(2, round - 1);
         
         // Find starting point
 		    // T[0] = 2
