@@ -1,19 +1,52 @@
-# TopCoder Contest Participation
+# TopCoder Solves
 
-[Profile](https://www.topcoder.com/members/apmeyer27)
+Div 2 Level 1 (easy) Solved: 13
 
-Contests: 1
+Div 2 Level 2 (medium) Solved: 2
 
-Global Rank 513 of 1046
+Div 2 Level 3 (hard) / Div 1 Level 1 (easy): 1
 
-Country Rank 64 of 135
+Div 1 Level 2 (medium): 0
 
-## SRM 825 Div 2 (Rated)
-[Contest Info](https://competitiveprogramming.info/topcoder/srm/round/19070/div/2)
+Div 1 Level 3 (hard): 0
 
-Final Score: 70.36
+# TopCoder Solutions
 
-Final Rank: 40 of 126
+SRM 826: Div2 = { [L1](/SRM%20826/GetGas.cpp), [L2](/SRM%20826/VisitPoints.cpp), [L3](/SRM%20826/TwoFairDice.cpp) }, 
+         Div1 = { [L1](/SRM%20826/TwoFairDice.cpp), ~~L2~~, ~~L3~~ }
+         
+SRM 825: Div2 = { [L1](/SRM%20825/FindBob.cpp), ~~L2~~, ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
+         
+SRM 824: Div2 = { [L1](/SRM%20824/SubtractionGenerator.cpp), ~~L2~~, ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
+         
+SRM 823: Div2 = { [L1](/SRM%20823/OxToTiger.cpp), ~~L2~~, ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
 
-- Div 2, level one: [Problem](https://community.topcoder.com/stat?c=problem_statement&pm=17427&rd=19070) | [My Solution](SRM%20825/FindBob.cpp)
+SRM 822: Div2 = { [L1](/SRM%20822/MakeItDivisible.cpp), ~~L2~~, ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
+         
+SRM 821: Div2 = { [L1](/SRM%20821/AssignPoints.cpp), ~~L2~~, ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
+         
+SRM 820: Div2 = { [L1](/SRM%20820/NailingABanner.cpp), ~~L2~~, ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
+              
+SRM 819: Div2 = { [L1](/SRM%20819/DecimalCoins.cpp), ~~L2~~, ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
 
+SRM 818: Div2 = { [L1](/SRM%20818/GlobalWarmingCheck.cpp), ~~L2~~, ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
+
+SRM 817: Div2 = { [L1](/SRM%20817/ShoppingStickers.cpp), ~~L2~~, ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
+         
+SRM 816: Div2 = { [L1](/SRM%20816/AirportCodes.cpp), ~~L2~~, ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
+         
+SRM 815: Div2 = { [L1](/SRM%20815/SunShroom.cpp), ~~L2~~, ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
+         
+SRM 814: Div2 = { [L1](/SRM%20814/StepHopJumpEasy.cpp), [L2](/SRM%20814/StepHopJumpMedium.cpp), ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
