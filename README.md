@@ -15,8 +15,8 @@ Div 1 Level 3 (hard): 0
 SRM 826: Div2 = { [L1](/SRM%20826/GetGas.cpp), [L2](/SRM%20826/VisitPoints.cpp), [L3](/SRM%20826/TwoFairDice.cpp) }, 
          Div1 = { [L1](/SRM%20826/TwoFairDice.cpp), ~~L2~~, ~~L3~~ }
          
-SRM 825: Div2 = { [L1](/SRM%20825/FindBob.cpp), ~~L2~~, ~~L3~~ }, 
-         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
+SRM 825: Div2 = { [L1](/SRM%20825/FindBob.cpp), [L2](/SRM%20825/OptimalMemoryGame.cpp), ~~L3~~ }, 
+         Div1 = { [L1](/SRM%20825/OptimalMemoryGame.cpp), ~~L2~~, ~~L3~~ }
          
 SRM 824: Div2 = { [L1](/SRM%20824/SubtractionGenerator.cpp), ~~L2~~, ~~L3~~ }, 
          Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
