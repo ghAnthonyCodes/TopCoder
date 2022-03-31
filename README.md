@@ -1,10 +1,12 @@
 # TopCoder Solves
 
-Div 2 Level 1 (easy) Solved: 13
+Div 2 Level 1 (easy) Solved: 14
 
-Div 2 Level 2 (medium) Solved: 2
+Div 2 Level 2 (medium) Solved: 3
 
-Div 2 Level 3 (hard) / Div 1 Level 1 (easy): 1
+Div 2 Level 3 (hard): 1 
+
+Div 1 Level 1 (easy): 2
 
 Div 1 Level 2 (medium): 0
 
@@ -49,4 +51,7 @@ SRM 815: Div2 = { [L1](/SRM%20815/SunShroom.cpp), ~~L2~~, ~~L3~~ },
          Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
          
 SRM 814: Div2 = { [L1](/SRM%20814/StepHopJumpEasy.cpp), [L2](/SRM%20814/StepHopJumpMedium.cpp), ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
+              
+SRM 813: Div2 = { [L1](SRM%20813/LightbulbRow.cpp), ~~L2~~, ~~L3~~ }, 
          Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
