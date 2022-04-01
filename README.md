@@ -1,6 +1,6 @@
 # TopCoder Solves
 
-Div 2 Level 1 (easy) Solved: 14
+Div 2 Level 1 (easy) Solved: 15
 
 Div 2 Level 2 (medium) Solved: 3
 
@@ -55,3 +55,8 @@ SRM 814: Div2 = { [L1](/SRM%20814/StepHopJumpEasy.cpp), [L2](/SRM%20814/StepHopJ
               
 SRM 813: Div2 = { [L1](SRM%20813/LightbulbRow.cpp), ~~L2~~, ~~L3~~ }, 
          Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
+         
+SRM 812: Div2 = { [L1](/SRM%20812/SpireAttack.cpp), ~~L2~~, ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
+         
+         
