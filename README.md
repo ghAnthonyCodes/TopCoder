@@ -1,18 +1,8 @@
-# TopCoder Solves
-
-Div 2 Level 1 (easy) Solved: 15
-
-Div 2 Level 2 (medium) Solved: 3
-
-Div 2 Level 3 (hard): 1 
-
-Div 1 Level 1 (easy): 2
-
-Div 1 Level 2 (medium): 0
-
-Div 1 Level 3 (hard): 0
-
 # TopCoder Solutions
+
+Solves: 22
+
+Rookie SRM 12: Div1 = { [L1](/Rookie%20SRM%2012/PrimesBetween.cpp), [L2](/Rookie%20SRM%2012/EquateNumbers.cpp), [L3](/Rookie%20SRM%2012/WeightedDice.cpp) }
 
 SRM 826: Div2 = { [L1](/SRM%20826/GetGas.cpp), [L2](/SRM%20826/VisitPoints.cpp), [L3](/SRM%20826/TwoFairDice.cpp) }, 
          Div1 = { [L1](/SRM%20826/TwoFairDice.cpp), ~~L2~~, ~~L3~~ }
