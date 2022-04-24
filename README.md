@@ -1,6 +1,9 @@
 # TopCoder Solutions
 
-Solves: 22
+Solves: 26
+
+SRM 827: Div2 = { [L1](/SRM%20827/SlidingDoors.cc), [L2](/SRM%20827/ShortShortSuperstring.cc), ~~L3~~ }, 
+         Div1 = { ~~L1~~, ~~L2~~, ~~L3~~ }
 
 Rookie SRM 12: Div1 = { [L1](/Rookie%20SRM%2012/PrimesBetween.cpp), [L2](/Rookie%20SRM%2012/EquateNumbers.cpp), [L3](/Rookie%20SRM%2012/WeightedDice.cpp) }
 
